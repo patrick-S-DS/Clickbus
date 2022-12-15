@@ -6,7 +6,7 @@
 
 
 # Project objective
-Resolver o case do Clickbus e entregar os resultados obtidos em dashboards realizados no Tableau e as consultas no SQL
+Este é um projeto de visualização de dados em que busco resolver o case do Clickbus e entregar os resultados obtidos em dashboards realizados no Tableau e as consultas no SQL
 
 
 # Methods
@@ -20,7 +20,12 @@ Resolver o case do Clickbus e entregar os resultados obtidos em dashboards reali
   - Tableau
 
 # Project Description
-  Este projeto se concentra na resolução do case do Clickbus e entregar os dados obtidos em dashboards feitos no tableau e consultas no SQL 
+Este projeto se concentra na resolução do case do Clickbus e é divido em: 
+
+1. Criar um dashboard respondendo às perguntas com os dados obtidos do arquivo .CSV;
+
+2. Realizar consultas no SQL para responder às perguntadas dadas.
+
 
 
 
