@@ -23,7 +23,7 @@ Este é um projeto de visualização de dados em que busco resolver o case do Cl
 Este projeto se concentra na resolução do case do Clickbus e é divido em: 
 
 <p align="center">
-    <img width="50%" src="/imagens/top_rotas.jpg">
+    <img width="70%" src="/imagens/top_rotas.jpg">
 </p>
 
 1. Criar um dashboard respondendo às perguntas com os dados obtidos do arquivo .CSV;
