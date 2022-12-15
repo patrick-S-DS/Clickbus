@@ -22,10 +22,6 @@ Este é um projeto de visualização de dados em que busco resolver o case do Cl
 # Project Description
 Este projeto se concentra na resolução do case do Clickbus e é divido em: 
 
-<p align="center">
-    <img width="70%" src="/imagens/top_rotas.jpg">
-</p>
-
 1. Criar um dashboard respondendo às perguntas com os dados obtidos do arquivo .CSV;
 
 2. Realizar consultas no SQL para responder às perguntadas dadas.
@@ -51,12 +47,17 @@ Os assentos de janela são os mais escolhidos, sendo assim, daria desconto para 
 
 Qual os 3 domínios que mais trouxeram dinheiro nas vendas confirmadas e qual o valor vendido de cada um desses domínios ?
 
-![stack Overflow](https://github.com/patrick-S-DS/Clickbus/blob/fb6d0517c19b1bff12e7273a920fe4d86e9413aa/imagens/vendas_dominio.png)
+<p align="center">
+    <img width="70%" src="/imagens/vendas_dominio.png">
+</p>
 
 
 Qual o share de receita das vendas confirmadas de cada plataforma (desktop e mobile) olhando para os clientes localizados nas regiões Sudeste, Norte e Nordeste do país ?
 
-![stack Overflow](https://github.com/patrick-S-DS/Clickbus/blob/9da118033c98a1932d08a2defa186fc5c9da9f40/imagens/vendas_plataforma.jpg)
+<p align="center">
+    <img width="70%" src="/imagens/vendas_plataforma.jpg">
+</p>
+
 
 
 
