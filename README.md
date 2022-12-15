@@ -1,5 +1,6 @@
-# <h1 align="center">CASE DASHBOARD & BANCO DE DADOS </h1>
+# <h1 align="center">CASE DASHBOARD & BANCO DE DADOS CLICKBUS </h1>
 
+![stack Overflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cuponomia.com.br%2Fdesconto%2Fclickbus&psig=AOvVaw36Z1rjCqpPizESi1SpFiFq&ust=1671226604169000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjRg7LK_PsCFQAAAAAdAAAAABAE)
 
 # Project objective
 Resolver o case do Clickbus e entregar os resultados obtidos em dashboards realizados no Tableau e as consultas no SQL
@@ -28,7 +29,7 @@ Os assentos ímpares são de janela e os pares de corredor. Pensando em uma camp
 
 ![stack Overflow](https://github.com/patrick-S-DS/Clickbus/blob/9da118033c98a1932d08a2defa186fc5c9da9f40/imagens/numero_assentos.jpg)
 
-Os assentos de janela são os mais escolhidos, sendo assim daria desconto para os assentos de corredor pois tem uma venda muito menor.
+Os assentos de janela são os mais escolhidos, sendo assim, daria desconto para os assentos de corredor pois tem uma venda muito menor.
 
 Qual os 3 domínios que mais trouxeram dinheiro nas vendas confirmadas e qual o valor vendido de cada um desses domínios ?
 
