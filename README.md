@@ -26,10 +26,7 @@ Os assentos ímpares são de janela e os pares de corredor. Pensando em uma camp
 
 Qual os 3 domínios que mais trouxeram dinheiro nas vendas confirmadas e qual o valor vendido de cada um desses domínios ?
 
-<p align="center">
-  <img src="C:\Users\petri\Desktop\Trabalho final\SQL\vendas_dominio.jpg" width="350" title="hover text">
-  
-</p>
+![stack Overflow](https://github.com/patrick-S-DS/Clickbus/blob/fb6d0517c19b1bff12e7273a920fe4d86e9413aa/imagens/vendas_dominio.png)
 
 
 Qual o share de receita das vendas confirmadas de cada plataforma (desktop e mobile) olhando para os clientes localizados nas regiões Sudeste, Norte e Nordeste do país ?
