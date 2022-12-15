@@ -1,7 +1,7 @@
 # <h1 align="center">CASE DASHBOARD & BANCO DE DADOS CLICKBUS </h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cuponomia.com.br%2Fdesconto%2Fclickbus&psig=AOvVaw36Z1rjCqpPizESi1SpFiFq&ust=1671226604169000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjRg7LK_PsCFQAAAAAdAAAAABAE" width="350" title="hover text">
+  <img src="https://cuponomia-a.akamaihd.net/img/stores/original/clickbus-637927261428169028.png" width="350" title="hover text">
 </p>
 
 
