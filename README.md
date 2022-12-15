@@ -28,6 +28,7 @@ Os assentos ímpares são de janela e os pares de corredor. Pensando em uma camp
 
 ![stack Overflow](https://github.com/patrick-S-DS/Clickbus/blob/9da118033c98a1932d08a2defa186fc5c9da9f40/imagens/numero_assentos.jpg)
 
+Os assentos de janela são os mais escolhidos, sendo assim daria desconto para os assentos de corredor pois tem uma venda muito menor.
 
 Qual os 3 domínios que mais trouxeram dinheiro nas vendas confirmadas e qual o valor vendido de cada um desses domínios ?
 
