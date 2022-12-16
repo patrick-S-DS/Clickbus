@@ -67,7 +67,7 @@ O dashboard foi montado respondendo as seguintes questões:
 O Marketing cuida do investimento, tem meta de novos clientes para cumprir e se preocupa com a taxa de conversão dos sites. Crie um dashboard para trazer as visões mais importantes para essa área.
 
 <p align="center">
-    <img width="70%" src="/imagens/grafico1.jpg">
+    <img width="90%" src="/imagens/grafico1.jpg">
 </p>
 
 O CEO te pediu uma visão pra ajudá-lo a tomar uma decisão em reunião com o conselho. As métricas seriam:
@@ -77,7 +77,7 @@ O CEO te pediu uma visão pra ajudá-lo a tomar uma decisão em reunião com o c
 . ROAS (return on ad spend)
 
 <p align="center">
-    <img width="70%" src="/imagens/grafico2.jpg">
+    <img width="90%" src="/imagens/grafico2.jpg">
 </p>
 
 
