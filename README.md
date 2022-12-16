@@ -1,7 +1,7 @@
 # <h1 align="center">CASE DASHBOARD & BANCO DE DADOS CLICKBUS </h1>
 
 <p align="center">
-  <img src="https://cuponomia-a.akamaihd.net/img/stores/original/clickbus-637927261428169028.png" width="350" title="hover text">
+  <img src="/imagens/Case%20Delivery_page-0002.jpg" width="70%">
 </p>
 
 
