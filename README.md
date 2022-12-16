@@ -45,6 +45,7 @@ Os assentos ímpares são de janela e os pares de corredor. Pensando em uma camp
 
 Os assentos de janela são os mais escolhidos, sendo assim, daria desconto para os assentos de corredor pois tem uma venda muito menor.
 
+
 Qual os 3 domínios que mais trouxeram dinheiro nas vendas confirmadas e qual o valor vendido de cada um desses domínios ?
 
 <p align="center">
@@ -59,6 +60,25 @@ Qual o share de receita das vendas confirmadas de cada plataforma (desktop e mob
 </p>
 
 
+# Tableau: 
+
+O dashboard foi montado respondendo as seguintes questões:
+
+O Marketing cuida do investimento, tem meta de novos clientes para cumprir e se preocupa com a taxa de conversão dos sites. Crie um dashboard para trazer as visões mais importantes para essa área.
+
+<p align="center">
+    <img width="70%" src="/imagens/grafico1.jpg">
+</p>
+
+O CEO te pediu uma visão pra ajudá-lo a tomar uma decisão em reunião com o conselho. As métricas seriam:
+. Receita líquida média por dia
+. Número de vendas por dia da semana
+. Atingimento das metas
+. ROAS (return on ad spend)
+
+<p align="center">
+    <img width="70%" src="/imagens/grafico2.jpg">
+</p>
 
 
   
